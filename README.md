@@ -66,17 +66,8 @@ I have worked on various projects involving machine learning, deep learning, and
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.5)';" onmouseout="this.style.transform='scale(1)';"/>
   </a>
-  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Apache_Spark_logo.svg" alt="spark" width="40" height="40" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.5)';" onmouseout="this.style.transform='scale(1)';"/>
-  </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://www.tableau.com/sites/default/files/pages/tableau_logo.png" alt="tableau" width="40" height="40" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.5)';" onmouseout="this.style.transform='scale(1)';"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://powerbi.microsoft.com/pbikits/1109-100-powerbi.png" alt="powerbi" width="40" height="40" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.5)';" onmouseout="this.style.transform='scale(1)';"/>
-  </a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Apache_Kafka_Logo.svg" alt="kafka" width="40" height="40" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.5)';" onmouseout="this.style.transform='scale(1)';"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="mysql" width="40" height="40" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.5)';" onmouseout="this.style.transform='scale(1)';"/>
