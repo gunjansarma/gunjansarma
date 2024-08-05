@@ -67,25 +67,19 @@ I have worked on various projects involving machine learning, deep learning, and
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.5)';" onmouseout="this.style.transform='scale(1)';"/>
   </a>
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Apache_Spark_logo.svg/800px-Apache_Spark_logo.svg.png" alt="spark" width="40" height="40" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.5)';" onmouseout="this.style.transform='scale(1)';"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Apache_Spark_logo.svg" alt="spark" width="40" height="40" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.5)';" onmouseout="this.style.transform='scale(1)';"/>
   </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Tableau_Logo.png" alt="tableau" width="40" height="40" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.5)';" onmouseout="this.style.transform='scale(1)';"/>
+    <img src="https://www.tableau.com/sites/default/files/pages/tableau_logo.png" alt="tableau" width="40" height="40" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.5)';" onmouseout="this.style.transform='scale(1)';"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Microsoft_Power_BI_Logo.png" alt="powerbi" width="40" height="40" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.5)';" onmouseout="this.style.transform='scale(1)';"/>
+    <img src="https://powerbi.microsoft.com/pbikits/1109-100-powerbi.png" alt="powerbi" width="40" height="40" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.5)';" onmouseout="this.style.transform='scale(1)';"/>
   </a>
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_Kafka_logo.svg" alt="kafka" width="40" height="40" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.5)';" onmouseout="this.style.transform='scale(1)';"/>
-  </a>
-  <a href="https://redis.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Redis_Logo.svg" alt="redis" width="40" height="40" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.5)';" onmouseout="this.style.transform='scale(1)';"/>
-  </a>
-  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Apache_Hadoop_logo.svg" alt="hadoop" width="40" height="40" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.5)';" onmouseout="this.style.transform='scale(1)';"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Apache_Kafka_Logo.svg" alt="kafka" width="40" height="40" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.5)';" onmouseout="this.style.transform='scale(1)';"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/MySQL_logo.svg" alt="mysql" width="40" height="40" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.5)';" onmouseout="this.style.transform='scale(1)';"/>
+    <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="mysql" width="40" height="40" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.5)';" onmouseout="this.style.transform='scale(1)';"/>
   </a>
 </p>
 
