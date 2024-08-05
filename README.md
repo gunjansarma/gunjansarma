@@ -12,6 +12,7 @@ I have worked on various projects involving machine learning, deep learning, and
 - 📄 Checkout My [Resume](https://drive.google.com/file/d/1h-0m1umWHdXqGmFGwKBhiblPbrKg2pXZ/view?usp=drive_link)
 
 ### Languages and Tools:
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
