@@ -25,7 +25,7 @@ I have worked on various projects involving machine learning, deep learning, and
 }
 
 .icon:hover {
-  transform: scale(1.2);
+  transform: scale(1.5);
 }
 </style>
 
