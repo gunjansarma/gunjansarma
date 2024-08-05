@@ -13,6 +13,22 @@ I have worked on various projects involving machine learning, deep learning, and
 
 ### Languages and Tools:
 
+<style>
+.icons {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.icon {
+  margin: 10px;
+  transition: transform 0.3s;
+}
+
+.icon:hover {
+  transform: scale(1.2);
+}
+</style>
+
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
