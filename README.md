@@ -6,8 +6,8 @@ I have worked on various projects involving machine learning, deep learning, and
 
 ### Know Me More:
 - 🌍 I'm based in India
-- 💻 See my portfolio at [gunjan-sarma.netlify.app](https://gunjan-sarma.netlify.app/) (Update with your portfolio link)
-- 📧 You can contact me at [gunjansarma2001@gmail.com](mailto:gunjansarma2001@gmail.com) (Update with your email)
+- 💻 See my portfolio at [gunjan-sarma.netlify.app](https://gunjan-sarma.netlify.app/) 
+- 📧 You can contact me at [gunjansarma2001@gmail.com](mailto:gunjansarma2001@gmail.com)
 - 🤝 I'm looking to collaborate on projects related to Data Science, Machine Learning, or Deep Learning
 - 📄 Checkout My [Resume](https://drive.google.com/file/d/1h-0m1umWHdXqGmFGwKBhiblPbrKg2pXZ/view?usp=drive_link)
 
