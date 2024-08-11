@@ -1,6 +1,6 @@
 # Hey 👋, I'm Gunjan Sarma!
 
-Hi, I'm Gunjan, an enthusiastic Data Scientist and Machine Learning Engineer. My passion lies in analyzing data, building predictive models, and implementing deep learning algorithms. When I work on a project, I focus on deriving insights, optimizing models, and ensuring high code quality.
+Hi, I'm Gunjan, an enthusiastic Data Scientist and Machine Learning Engineer, initially a student of Physics. My passion lies in analyzing data, building predictive models, and implementing deep learning algorithms. When I work on a project, I focus on deriving insights, optimizing models, and ensuring high code quality.
 
 I have worked on various projects involving machine learning, deep learning, and data analysis. Additionally, I have experience in freelancing, where I collaborate with clients to solve complex problems using data-driven approaches.
 
