@@ -75,5 +75,6 @@ I have worked on various projects involving machine learning, deep learning, and
   
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunjansarma)](https://github.com/gunjansarma/github-readme-stats)
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=gunjansarma&show_icons=true"/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
