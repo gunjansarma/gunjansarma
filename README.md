@@ -75,3 +75,5 @@ I have worked on various projects involving machine learning, deep learning, and
   
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunjansarma)](https://github.com/gunjansarma/github-readme-stats)
+
