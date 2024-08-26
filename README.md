@@ -75,6 +75,6 @@ I have worked on various projects involving machine learning, deep learning, and
   
 </p>
 
-<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=gunjansarma&show_icons=true"/>
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=gunjansarma&show_icons=true"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunjansarma)](https://github.com/gunjansarma/github-readme-stats)
+<img alt="Top Langs" alighn="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjansarma"/>
