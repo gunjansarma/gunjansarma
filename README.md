@@ -9,7 +9,7 @@ I have worked on various projects involving machine learning, deep learning, and
 - 💻 See my portfolio at [gunjan-sarma.netlify.app](https://gunjan-sarma.netlify.app/) 
 - 📧 You can contact me at [gunjansarma2001@gmail.com](mailto:gunjansarma2001@gmail.com)
 - 🤝 I'm looking to collaborate on projects related to Data Science, Machine Learning, or Deep Learning
-- 📄 Checkout My [Resume](https://drive.google.com/file/d/1h-0m1umWHdXqGmFGwKBhiblPbrKg2pXZ/view?usp=drive_link)
+- 📄 Checkout My [Resume](https://drive.google.com/file/d/1eMLv6S0jjJGvEpoDCtEIX0Pcx8kqQiVQ/view?usp=drive_link)
 
 ### Languages and Tools:
 
