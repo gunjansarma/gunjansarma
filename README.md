@@ -72,10 +72,10 @@ I have worked on various projects involving machine learning, deep learning, and
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://www.tableau.com/sites/default/files/pages/tableau_logo.png" alt="tableau" width="40" height="40" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.5)';" onmouseout="this.style.transform='scale(1)';"/>
   </a>
-   <a href="https://www.alteryx.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.alteryx.com/sites/default/files/pages/alteryx_logo.png" alt="alteryx" width="40" height="40" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.5)';" onmouseout="this.style.transform='scale(1)';"/>
+  <a href="https://www.alteryx.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Alteryx_logo.png" alt="Alteryx" width="40" height="40" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.5)';" onmouseout="this.style.transform='scale(1)';"/>
   </a>
-  
+ 
 </p>
 
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=gunjansarma&show_icons=true"/>
