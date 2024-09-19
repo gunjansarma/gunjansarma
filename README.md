@@ -72,6 +72,9 @@ I have worked on various projects involving machine learning, deep learning, and
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://www.tableau.com/sites/default/files/pages/tableau_logo.png" alt="tableau" width="40" height="40" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.5)';" onmouseout="this.style.transform='scale(1)';"/>
   </a>
+   <a href="https://www.alteryx.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.alteryx.com/sites/default/files/pages/alteryx_logo.png" alt="alteryx" width="40" height="40" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.5)';" onmouseout="this.style.transform='scale(1)';"/>
+  </a>
   
 </p>
 
