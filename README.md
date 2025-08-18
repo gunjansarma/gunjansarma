@@ -1,14 +1,14 @@
 # Hey 👋, I'm Gunjan Sarma!
 
-Hi, I'm Gunjan, an enthusiastic Data Scientist and Machine Learning Engineer, initially a student of Physics. My passion lies in analyzing data, building predictive models, and implementing deep learning algorithms. When I work on a project, I focus on deriving insights, optimizing models, and ensuring high code quality.
+Hi, I'm Gunjan, a Researcher and an enthusiastic Data Scientist, initially a student of Physics. My passion lies in analyzing data, building predictive models, simulations, etc. When I work on a project, I focus on deriving insights, optimizing models, and ensuring high code quality.
 
-I have worked on various projects involving machine learning, deep learning, and data analysis. Additionally, I have experience in freelancing, where I collaborate with clients to solve complex problems using data-driven approaches.
+I worked on various projects involving several machine learning algorithms, deep learning, and statistical analysis, and also worked on projects which involves IoT and hardware integration.
 
 ### Know Me More:
 - 🌍 I'm based in India
 - 💻 See my portfolio at [gunjan-sarma.netlify.app](https://gunjan-sarma.netlify.app/) 
 - 📧 You can contact me at [gunjansarma2001@gmail.com](mailto:gunjansarma2001@gmail.com)
-- 🤝 I'm looking to collaborate on projects related to Data Science, Machine Learning, or Deep Learning
+- 🤝 I'm looking to collaborate on projects related to Data Science, Machine Learning, or Computer Vision
 - 📄 Checkout My [Resume](https://drive.google.com/file/d/1eMLv6S0jjJGvEpoDCtEIX0Pcx8kqQiVQ/view?usp=drive_link)
 
 ### Languages and Tools:
